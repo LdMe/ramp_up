@@ -1,0 +1,100 @@
+Vamos a generar la historia de un joven de Bilbao que empieza un bootcamp de programación Web Full stack.
+
+Nombre: Ander
+
+Apellidos: Arrieta Barandiaran
+
+Edad: 23
+
+Ciudad: Bilbao
+
+Profesión: Estudiante de grado superior de mecánica, desempleado
+
+Descripción: Ander es un joven de 23 años que vive en Bilbao. Ha estudiado un grado superior de mecánica. Es un chico muy responsable que siempre ha demostrado tener una gran capacidad de trabajo. Además, es un gran amante del deporte. Le gusta mucho el fútbol y el ciclismo.
+
+¿Por qué te apuntas a este bootcamp?
+
+Ander: Me apunto a este bootcamp porque quiero aprender a programar. Me apasiona la tecnología y quiero poder trabajar en un sector que me guste. Además, me gustaría poder desarrollar mi propia app.
+
+¿Qué te gustaría poder hacer con lo que aprendes en este bootcamp?
+
+Ander: Me gustaría poder desarrollar mi propia app. Además, me gustaría poder trabajar en un sector que me guste. Me apasiona la tecnología y quiero poder trabajar en un sector que me guste.
+
+¿Qué te gustaría poder hacer con lo que aprendes en este bootcamp?
+
+Ander: Me gustaría poder desarrollar mi propia app. Además, me gustaría poder trabajar en un sector que me guste. Me apasiona la tecnología y quiero poder trabajar en un sector que me guste.
+
+¿Cuáles son tus expectativas respecto al bootcamp?
+
+Ander: Espero aprender a programar. Me gustaría aprender a programar de forma profesional y poder trabajar en un sector que me guste.
+
+¿Por qué crees que este bootcamp te va a ayudar a conseguir tus objetivos?
+
+Ander: Creo que este bootcamp me va a ayudar a conseguir mis objetivos porque voy a aprender a programar de forma profesional. Además, voy a poder trabajar en un sector que me apasiona.
+
+¿Qué te gustaría poder hacer con lo que aprendes en este bootcamp?
+
+Ander: Me gustaría poder desarrollar mi propia app. Además, me gustaría poder trabajar en un sector que me guste. Me apasiona la tecnología y quiero poder trabajar en un sector que me guste.
+
+¿Cuáles son tus expectativas respecto al bootcamp?
+
+Ander: Espero aprender a programar. Me gustaría aprender a programar de forma profesional
+
+
+
+Escribe diez breves frases distintas de filosofía barata y motivación:
+
+1. La vida es una oportunidad, aprovecha cada momento.
+
+2. Los sueños se hacen realidad.
+
+3. El tiempo es oro.
+
+4. La vida es un viaje, no una meta.
+
+5. La vida es un regalo.
+
+6. Cuenta tus bendiciones, no tus problemas.
+
+7. No te preocupes por lo que no puedes cambiar.
+
+8. Pierde el miedo a fallar.
+
+9. Eres lo que haces.
+
+10. Siempre hay una solución.
+
+
+Escribe diez breves frases célebres distintas junto con el autor de las frases:
+
+1. "La vida es una oportunidad, aprovecha cada momento." - Oprah Winfrey
+
+2. "Los sueños se hacen realidad." - Walt Disney
+
+3. "El tiempo es oro." - Benjamin Franklin
+
+4. "La vida es un viaje, no una meta." - Ralph Waldo Emerson
+
+5. "La vida es un regalo." - John Lennon
+
+6. "Cuenta tus bendiciones, no tus problemas." - Robert H. Schuller
+
+7. "No te preocupes por lo que no puedes cambiar." - John Wooden
+
+8. "Pierde el miedo a fallar." - Michael Jordan
+
+9. "Eres lo que haces." - Elbert Hubbard
+
+10. "Siempre hay una solución." - Albert Einstein
+
+
+
+
+
+Profile photo of average  Web Development bootcamp student, young male, 23 year old, basque, dark brown hair, short beard, doing sports outside, National Geographic
+
+Prompts for stable image generation (GPT-3):
+
+Web page of a personal project made by a student of a Web Development bootcamp, with a photo of the student, a description of the project, and a link to the project
+
+

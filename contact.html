@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Portfolio de Ander Arrieta Barandiaran</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+        <link href='https://fonts.googleapis.com/css?family=Yellowtail' rel='stylesheet'>
+        <link href='https://fonts.googleapis.com/css?family=Merienda' rel='stylesheet'>
+        <link rel="stylesheet" href="css/style.css">
+        <style>
+            label {
+                font-family: Merienda;
+            }
+        </style>
+    </head>
+    <!-- Contact form -->
+    <body>
+        <nav>
+            <a href="index.html">
+                <div class="logo">
+                    <img src="img/logo.png" class="logo" alt="Logo de Ander">
+                </div>
+                <div class="navbar-title">
+                    <p >Ander Arrieta</p>
+                </div>
+            </a>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="about.html">Sobre mí</a></li>
+                <li><a href="contact.html">Contacto</a></li>
+            </ul>
+        </nav>
+        <div class="container dark">
+            <h1>Contacto</h1>
+            <p>Si quieres contactar conmigo, puedes hacerlo a través de este formulario</p>
+
+        </div>
+        <div class="container gris">
+            <div class="row ">
+                <div class="col">
+                    <img src="img/contact.png" class="photo" alt="Foto de Ander">
+                </div>
+                <div class="col">
+                    <h2 class="sofia"> “Los humanos somos seres sociales, necesitamos el contacto con otras personas para sentirnos bien.”</h2>
+                </div>
+            </div>
+        </div>  
+        <div class="container dark">
+            <form action="#" class="container w-50">
+                <div class="row form-group">
+                    <div class="col col-12">
+                        <label for="name" class="form-item">Nombre</label>
+                        <input type="text"  class="form-item" id="name" name="user_name">
+                    </div>
+                </div>
+                <div class="row form-group">
+                    <label for="mail" class="form-item">E-mail</label>
+                    <input type="email" class="form-item" id="mail" name="user_email">
+                </div>
+                <div class="row form-group">
+                    <label for="msg" class="form-item">Mensaje</label>
+                    <textarea id="msg" class="form-item textarea" name="user_message"></textarea>
+                </div>
+                <div class="row form-group">
+                    <button type="submit" class="form-item">Enviar mensaje</button>
+                </div>
+            </form>
+        </div>
+        <div class="footer">
+            <p>Hecho por Ander Arrieta Barandiaran</p>
+        </div>
+    </body>
